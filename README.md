@@ -1,4 +1,4 @@
-# README.md+
+# README.md
 ## Notas vista en clase de "Teoria de algoritmos" 
 
 Las clases que hemos tenido con el Dc.Villarroel han sido muy divertidas e interesantes, sobre todo ala hora de platicar y entender problemas planteadas por el, como el del agente viajero que consta de:
