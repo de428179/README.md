@@ -44,3 +44,5 @@ Un problema es NP-Completo si cumple
 -TSP (versión de decisión)
 -3-SAT
 -Clique
+
+Estos solo son algunos de los problemas clasicos, de manera muy resumida
