@@ -48,4 +48,5 @@ Un problema es NP-Completo si cumple
 Estos solo son algunos de los problemas clasicos, de manera muy resumida
 
 $$P=\frac{A}{B}$$
-$$N=NP$$
+
+$¿N=NP?$
