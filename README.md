@@ -47,6 +47,8 @@ Un problema es NP-Completo si cumple
 
 Estos solo son algunos de los problemas clasicos, de manera muy resumida
 
+
 $$ V=\frac{A}{B} $$
+
 
 $ ¿N=NP? $
